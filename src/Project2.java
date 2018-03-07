@@ -1,3 +1,11 @@
+/**
+* Name: Phuoc Ngo
+*       Scott Matsumura
+*
+* Class: CS 411 - Compilers and Intepreters
+* Project #2
+*//
+
 import java.io.FileNotFoundException;
 
 import java_cup.parser;
