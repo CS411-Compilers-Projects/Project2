@@ -1,43 +1,4 @@
-if
-IF
-forFOR
-hello
-HELLO
-if(23void
-if ( 23 void
-01
-0
-0x
-0X
-1x
-1X
-0x0
-0X0
-1x0
-1X0
-0x2AFE
-0Xtestvalue
-0
-0.
-.0
-0.0
-0.0e
-0.0E
-0.e
-0.E
-0.0e+
-0.0E-
-0.0e16
-0.e+2
-12.e9
-589986.928389eTESTVALUE
-"
-""
-"above was an empty string"
-"this is an invalid string""
-""this should spit out NOT_A_TOKEN"
-"as is
-this"
+"this"
 true
 false
 maybe
